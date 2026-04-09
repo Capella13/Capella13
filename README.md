@@ -1,4 +1,4 @@
-[유니티 프로젝트 7번](https://github.com/Capella13/Roullete_STAR, "게임이름")
+[유니티 프로젝트 7번](https://github.com/Capella13/Roullete_STAR/, "게임이름")
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20World!%20👋&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
