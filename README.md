@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_ID&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Capella13&theme=radical" alt="GitHub Streak" />
 </div>
 
 <br />
@@ -62,9 +62,9 @@
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **Awesome App** | 멋진 기능을 제공하는 모바일 앱 | React Native, Firebase | [Link](https://github.com/YOUR_ID/project1) |
-| **Portfolio Web** | 지금 보고 계신 바로 이 포트폴리오 | HTML, CSS, JS | [Link](https://github.com/YOUR_ID/project2) |
-| **E-Commerce** | 풀스택 쇼핑몰 프로젝트 | Node.js, MongoDB | [Link](https://github.com/YOUR_ID/project3) |
+| **Awesome App** | 멋진 기능을 제공하는 모바일 앱 | React Native, Firebase | [Link](https://github.com/Capella13/project1) |
+| **Portfolio Web** | 지금 보고 계신 바로 이 포트폴리오 | HTML, CSS, JS | [Link](https://github.com/Capella13/project2) |
+| **E-Commerce** | 풀스택 쇼핑몰 프로젝트 | Node.js, MongoDB | [Link](https://github.com/Capella13/project3) |
 
 <br />
 
@@ -76,7 +76,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:yuminan286@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
@@ -84,5 +84,5 @@
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_ID&color=blue&style=flat-square&label=VISITORS" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Capella13&color=blue&style=flat-square&label=VISITORS" alt="Visitors" />
 </div>
