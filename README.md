@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Capella13&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Capella13&theme=radical&timezone=Asia/Seoul" alt="GitHub Streak"/>
 </div>
 
 <br />
