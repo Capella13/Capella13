@@ -10,7 +10,7 @@
 <table align="center">
   <tr>
     <td align="center" width="40%">
-      <img src="https://github.com/Capella13.png" width="200px" style="border-radius: 50%;" />
+      <img src="https://github.com/Capella13.png" width="200px" style="border-radius: 50;" />
       <br />
       <b>Capella13</b>
     </td>
