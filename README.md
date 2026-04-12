@@ -16,10 +16,10 @@
     </td>
     <td>
       안녕하세요! 성장을 즐기는 개발자 <b>Capella13</b>입니다. <br /><br />
-      - 🔭 현재 **신기술 스택 연구**에 몰두하고 있습니다. <br />
-      - 🌱 **React, TypeScript**에 깊은 관심을 가지고 있습니다. <br />
+      - 🔭 현재 <b>Capella13</b>에 몰두하고 있습니다. <br />
+      - 🌱 <b>Capella13</b>에 깊은 관심을 가지고 있습니다. <br />
       - 💬 무엇이든 물어보세요! 친절하게 답변해 드립니다. <br />
-      - 📧 Contact: <b>your_email@gmail.com</b>
+      - 📧 Contact: <b>yuminan286@gmail.com</b>
     </td>
   </tr>
 </table>
