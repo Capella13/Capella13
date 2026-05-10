@@ -70,10 +70,6 @@
 <div align="center">
   <a href="https://blog.naver.com/capella_13" target="_blank">
     <img src="https://img.shields.io/badge/Blog-11B48A?style=for-the-badge&logo=Velog&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   <a href="mailto:yuminan286@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
