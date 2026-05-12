@@ -15,8 +15,8 @@
       <b>Capella13</b>
     </td>
     <td>
-      안녕하세요! 성장을 즐기는 개발자 <b>Capella13</b>입니다. <br /><br />
-      - 🔭 현재 <b>Capella13</b>에 몰두하고 있습니다. <br />
+      안녕하세요! 성장하고 있는 게임 개발자 <b>Capella13</b>입니다. <br /><br />
+      - 🔭 현재 개발 중인 게임에  <br />
       - 🌱 <b>Capella13</b>에 깊은 관심을 가지고 있습니다. <br />
       - 💬 무엇이든 물어보세요! 친절하게 답변해 드립니다. <br />
       - 📧 Contact: <b>yuminan286@gmail.com</b>
@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=java&logoColor=gray">
 </div>
 
 ### 🌐 Web Development
