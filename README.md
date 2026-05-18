@@ -19,7 +19,7 @@
       - 🔭 현재 개발 중인 게임에 몰두하고 있는 중입니다. <br />
       - 🌱 <b>Unity, Java, C언어</b>에 깊은 관심을 가지고 있습니다. <br />
       - 💬 무엇이든 물어보세요! 친절하게 답변해 드립니다. <br />
-      - 📧 Contact: <b>yuminan286@gmail.com</b>
+      - 📧 Contact: <b>anym1313@naver.com</b>
     </td>
   </tr>
 </table>
