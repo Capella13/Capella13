@@ -71,7 +71,7 @@
   <a href="https://blog.naver.com/capella_13" target="_blank">
     <img src="https://img.shields.io/badge/Blog-11B48A?style=for-the-badge&logo=Velog&logoColor=white">
   <a href="mailto:anym1313@naver.com">
-    <img src="https://img.shields.io/badge/Navermail-03CF5D?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Navermail-03CF5D?style=for-the-badge&logo=naver&logoColor=white">
   </a>
 </div>
 
