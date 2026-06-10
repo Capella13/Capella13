@@ -62,7 +62,7 @@
 | :--- | :--- | :--- | :---: |
 | **Awesome App** | 멋진 기능을 제공하는 모바일 앱 | React Native, Firebase | [Link](https://github.com/Capella13/project1) |
 | **Portfolio Web** | 지금 보고 계신 바로 이 포트폴리오 | HTML, CSS, JS | [Link](https://github.com/Capella13/Capella13) |
-| **E-Commerce** | 3번째 프로젝트 | Node.js, MongoDB | [Link](https://github.com/Capella13/project3) |
+| **Work in progress** | 현재 개발 중인 게임 | Unity(C#) | [Link](https://github.com/Capella13/Four-Seasons-Story) |
 
 <br />
 
